@@ -63,9 +63,6 @@ pnpm --filter @workspace/jac-hub run dev       # Frontend en :19610
 | `NODE_ENV` | `development` o `production` |
 | `PORT` | Puerto del servidor API (default: 8080) |
 
-## Acceso por defecto
-
-- **Admin**: `gael@jac.dev` / `jac2024`
 
 ## Estructura
 
